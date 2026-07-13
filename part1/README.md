@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/d60518fa-5b6d-4416-9a4d-718f3bbc5f39" /># Part 1: Data Engineering & Preprocessing Pipeline
+# Part 1: Data Engineering & Preprocessing Pipeline
 
 This directory documents the data extraction, type conversion engineering, and cleaning pipelines used to construct the clean base framework for our modeling stages.
 
