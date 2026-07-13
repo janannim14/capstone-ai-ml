@@ -1,0 +1,23 @@
+# --- PYTHON CORE CACHES ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+.streamlit/
+
+# --- MACHINE LEARNING PIPELINE ARTIFACTS ---
+# Prevents pushing massive binary models that should stay local
+*.pkl
+*.joblib
+*.sav
+
+# --- LOCAL ENVIRONMENT SETTINGS ---
+# Blocks your active credential secrets from tracking loops
+.env
+.env.local
+
+# --- LOCAL SYSTEM FILES ---
+.DS_Store
+Thumbs.db
